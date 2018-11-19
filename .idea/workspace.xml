@@ -168,6 +168,7 @@
     </navigator>
     <panes>
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -179,7 +180,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -236,12 +236,14 @@
       <workItem from="1542373325461" duration="1838000" />
       <workItem from="1542605418879" duration="103000" />
       <workItem from="1542605834289" duration="213000" />
-      <workItem from="1542606912633" duration="98000" />
+      <workItem from="1542606912633" duration="340000" />
+      <workItem from="1542607454750" duration="55000" />
+      <workItem from="1542607823876" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16407000" />
+    <option name="totallyTimeSpent" value="16732000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
